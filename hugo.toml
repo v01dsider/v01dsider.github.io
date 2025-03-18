@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://v01dsider.github.io/'
+languageCode = 'es-mx'
+title = 'La Guarida'
+theme = "not-much"
+
+[params]
+	subtitle = 'Blog de Luis Valencia'
+
+# For LaTeX support
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
