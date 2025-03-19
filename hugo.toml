@@ -4,10 +4,52 @@ title = 'La Guarida'
 theme = "not-much"
 
 [params]
-	subtitle = 'Blog de Luis Valencia'
+subtitle = 'Blog de Luis Valencia'
+theme = "dark"
+palette = "catpuccin"
+showThemeNotice = false
+showPostsSummary = false
 
-# For LaTeX support
 [markup]
+	[markup.highlight]
+		style = 'dracula'
 	[markup.goldmark]
 		[markup.goldmark.renderer]
 			unsafe = true
+
+# Navigation
+[menu]
+	[[menu.main]]
+		identifier = "inicio"
+		name = "inicio"
+		title = "Inicio"
+		url = "/"
+		weight = 1
+
+	[[menu.main]]
+		identifier = "sobre mí"
+		name = "sobre mí"
+		title = "Sobre mí"
+		url = "/sobre_mi"
+		weight = 2
+
+	[[menu.main]]
+		identifier = "entradas"
+		name = "entradas"
+		title = "Entradas"
+		url = "/entradas"
+		weight = 3
+
+	[[menu.main]]
+		identifier = "codeberg"
+		name = "codeberg"
+		title = "Codeberg"
+		url = "https://codeberg.org/vluis/kanso"
+		weight = 4
+
+	[[menu.main]]
+		identifier = "github"
+		name = "github"
+		title = "GitHub"
+		url = "https://github.com/v01dsider/v01dsider.github.io"
+		weight = 5
