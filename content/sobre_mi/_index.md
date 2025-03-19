@@ -29,3 +29,17 @@ Aunque actualmente no juego videojuegos de manera constante, mis videojuegos fav
 personal y soy un entusiasta del 'Linux Gaming'. Mi distribución favorita es Void Linux,
 sin embargo, Arch me parece más conveniente para mis objetivos actuales y es el sistema operativo
 que uso en mi computadora de desarrollo. Actualmente juego bajo el seudónimo 'voidsider'.
+
+Tengo fuertes opiniones acerca de los lenguajes de programación que considero de calidad, mis
+lenguajes favoritos y los que uso son C, Lua y Julia, otros que puedo recomendar por la opinión de
+terceros son Rust, Go, Lisp y Haskell. Particularmente encuentro a Python, C++, Java y C# como malos
+lenguajes y recomiendo evitarlos a toda costa. El lenguaje shell que uso es Bash.
+
+Las personas que admiro son los hackers originales (Steven Levy, "Hackers: Heroes of the Computer
+Revolution", 1984), incluyendo a Linus Torvalds y Richard Stallman; también personas como John
+Carmack, Tim Sweeney, Edsger Dijkstra, Donald Knuth, Margaret Hamilton, Claude Shannon, Richard
+Feynman, Carl Sagan, Erdős Pal, Mario Bunge, Gustavo Bueno, entre otros.
+
+Actualmente mi postura filosófica es el posibilianismo (possibilianism), sin embargo la mayor parte
+del tiempo interpreto la realidad a través del nuevo ateísmo, además, el budismo Zen ha influído
+mucho en mi estilo de vida.
