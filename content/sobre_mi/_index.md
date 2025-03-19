@@ -43,3 +43,7 @@ Feynman, Carl Sagan, Erdős Pal, Mario Bunge, Gustavo Bueno, entre otros.
 Actualmente mi postura filosófica es el posibilianismo (possibilianism), sin embargo la mayor parte
 del tiempo interpreto la realidad a través del nuevo ateísmo, además, el budismo Zen ha influído
 mucho en mi estilo de vida.
+
+Nací el 22 de enero de 1997.
+
+Puedes contactarme a través del correo electrónico: voidsider@protonmail.com
