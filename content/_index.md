@@ -1,3 +1,3 @@
 ---
-lead: "La Guarida: Blog de Luis Valencia"
+lead: "Blog de Luis Valencia"
 ---
