@@ -13,7 +13,7 @@ trate con seriedad y profundidad temas relevantes al aspecto más técnico del d
 videojuegos, promoviendo siempre el análisis, la discusión y el trabajo colaborativo.
 
 Llevo trabajando desde el 2021 para la industria de procesos como ingeniero de controles eléctricos,
-cuento con una considerable preparación en ciencias exactas (física y matemáticas) y dedico un
+cuento con una mínima preparación en ciencias exactas (física y matemáticas) y dedico un
 tiempo considerable al estudio de las ciencias de la computación de manera autodidacta. Mi enfoque a
 la construcción de software es minimalista y teórico. Espero en algún momento dedicarme de tiempo
 completo al desarrollo de motores de videojuegos.
